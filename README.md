@@ -16,7 +16,7 @@
 🌐 Connect with me:
 - 🏢 Company: [Perfect Dimension](https://perfectdimension.com)
 - 📄 Personal Website: [pdito.com](https://pdito.com)
-- Twitter: [Twitter/X](https://twitter.com/pdito)
+- Twitter/X: [@PDiTO](https://twitter.com/pdito)
 - Telegram: @iPDiTO
 
 ⚡ What I'm Looking For:
