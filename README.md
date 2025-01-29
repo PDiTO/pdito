@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi there! I'm Paul 👨🏻‍💻
 
-<!--
-**PDiTO/pdito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📈 Former fixed income trader, current Web3 & AI builder. Working as a Product Lead & Software Engineer primarily building full-stack decentralized applications.
 
-Here are some ideas to get you started:
+🏆 Highlights:
+- 🎮 Built a **#1 App Store game** that topped the charts and withs millions of downloads and billions of game sessions.
+- 📈 Track record of using the latest in blockchain and AI innovatations to super power growth.
+- 👨🏻‍💻 6 x Web3 Hackathon wins.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+- 💡 Solidity & Rust smart contracts
+- 🔩 TypeScript for frontends
+- 🐍 Python for data & AI
+- 📱 Swift for iOS
+
+🌐 Connect with me:
+- 🏢 Company: [Perfect Dimension](https://perfectdimension.com)
+- 📄 Personal Website: [pdito.com](https://pdito.com)
+- [Twitter/X](https://twitter.com/pdito)
+- [Telegram] @iPDiTO
+
+⚡ What I'm Looking For:
+- Opportunities to work on the cutting edge of crypto and AI tech.
+- A community of likeminded individuals.
