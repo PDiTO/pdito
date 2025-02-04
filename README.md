@@ -9,7 +9,7 @@
 
 🛠️ Tech Stack:
 - 💡 Solidity & Rust smart contracts
-- 🔩 TypeScript for frontends
+- 🔩 Typescript for frontends
 - 🐍 Python for data & AI
 - 📱 Swift for iOS
 
