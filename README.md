@@ -1,6 +1,6 @@
 👋 Hi there! I'm Paul 👨🏻‍💻
 
-📈 Former fixed income trader, current Web3 & AI builder. Working as a Product Lead & Software Engineer primarily building full-stack decentralized applications.
+📈 Former fixed income trader, current AI & Web3 builder. Working as a Product Lead & Software Engineer primarily building full-stack products.
 
 🏆 Highlights:
 - 🎮 Built a **#1 App Store game** that topped the charts and withs millions of downloads and billions of game sessions.
