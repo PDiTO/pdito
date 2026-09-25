@@ -24,13 +24,15 @@ CURRENTLY IN OSAKA, JAPAN.</samp>
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/openai-dark.svg"><img src="assets/stack/openai-light.svg" width="36" height="36" alt="OpenAI" title="OpenAI"></picture>&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/anthropic-dark.svg"><img src="assets/stack/anthropic-light.svg" width="36" height="36" alt="Anthropic" title="Anthropic"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/xai-dark.svg"><img src="assets/stack/xai-light.svg" width="36" height="36" alt="xAI" title="xAI"></picture>&nbsp;&nbsp;
   <img src="assets/stack/claude.svg" width="36" height="36" alt="Claude" title="Claude">&nbsp;&nbsp;
   <img src="assets/stack/claudecode.svg" width="36" height="36" alt="Claude Code" title="Claude Code">&nbsp;&nbsp;
   <img src="assets/stack/codex.svg" width="36" height="36" alt="Codex" title="Codex">&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cursor-dark.svg"><img src="assets/stack/cursor-light.svg" width="36" height="36" alt="Cursor" title="Cursor"></picture>&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cognition-dark.svg"><img src="assets/stack/cognition-light.svg" width="36" height="36" alt="Cognition" title="Cognition"></picture>&nbsp;&nbsp;
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/t3code-dark.svg"><img src="assets/stack/t3code-light.svg" width="36" height="36" alt="T3 Code" title="T3 Code"></picture>&nbsp;&nbsp;
-  <img src="assets/stack/typesafe.svg" width="36" height="36" alt="TypeSafe" title="TypeSafe">
+  <img src="assets/stack/typesafe.svg" width="36" height="36" alt="TypeSafe" title="TypeSafe">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/grokbot-dark.svg"><img src="assets/stack/grokbot-light.svg" width="36" height="36" alt="Grokbot" title="Grokbot"></picture>
 </p>
 
 <samp><img src="assets/square.svg" width="8" height="8" alt="">&nbsp; LANGUAGES</samp>
