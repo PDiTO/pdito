@@ -1,5 +1,20 @@
 👋
 
-<a href="https://www.pdito.com"><img src="https://img.shields.io/badge/Personal_website-pdito.com-2563EB?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTEyIDJhMTQuNSAxNC41IDAgMCAwIDAgMjAgMTQuNSAxNC41IDAgMCAwIDAtMjAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjwvc3ZnPg%3D%3D" alt="Personal website"></a><br>
-<a href="https://www.perfectdimension.com"><img src="https://img.shields.io/badge/Company_website-perfectdimension.com-7C3AED?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik02IDIyVjRhMiAyIDAgMCAxIDItMmg4YTIgMiAwIDAgMSAyIDJ2MThaIi8%2BPHBhdGggZD0iTTYgMTJINGEyIDIgMCAwIDAtMiAydjZhMiAyIDAgMCAwIDIgMmgyIi8%2BPHBhdGggZD0iTTE4IDloMmEyIDIgMCAwIDEgMiAydjlhMiAyIDAgMCAxLTIgMmgtMiIvPjxwYXRoIGQ9Ik0xMCA2aDQiLz48cGF0aCBkPSJNMTAgMTBoNCIvPjxwYXRoIGQ9Ik0xMCAxNGg0Ii8%2BPHBhdGggZD0iTTEwIDE4aDQiLz48L3N2Zz4%3D" alt="Company website"></a><br>
-<a href="https://x.com/PDiTO"><img src="https://img.shields.io/badge/X_(Twitter)-%40PDiTO-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/website-dark.svg"><img src="assets/links/website-light.svg" width="18" height="18" alt=""></picture>&nbsp; <a href="https://www.pdito.com">Personal website</a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/company-dark.svg"><img src="assets/links/company-light.svg" width="18" height="18" alt=""></picture>&nbsp; <a href="https://www.perfectdimension.com">Company website</a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/x-dark.svg"><img src="assets/links/x-light.svg" width="18" height="18" alt=""></picture>&nbsp; <a href="https://x.com/PDiTO">@PDiTO on X</a>
+
+### AI tools I work with
+
+<p>
+  <img src="assets/stack/openai.svg" width="44" height="44" alt="OpenAI" title="OpenAI">
+  <img src="assets/stack/anthropic.svg" width="44" height="44" alt="Anthropic" title="Anthropic">
+  <img src="assets/stack/claude.svg" width="44" height="44" alt="Claude" title="Claude">
+  <img src="assets/stack/claudecode.svg" width="44" height="44" alt="Claude Code" title="Claude Code">
+  <img src="assets/stack/codex.svg" width="44" height="44" alt="Codex" title="Codex">
+  <img src="assets/stack/cursor.svg" width="44" height="44" alt="Cursor" title="Cursor">
+  <img src="assets/stack/devin.svg" width="44" height="44" alt="Devin (Cognition)" title="Devin (Cognition)">
+  <img src="assets/stack/windsurf.svg" width="44" height="44" alt="Windsurf" title="Windsurf">
+  <img src="assets/stack/gemini.svg" width="44" height="44" alt="Gemini" title="Gemini">
+  <img src="assets/stack/huggingface.svg" width="44" height="44" alt="Hugging Face" title="Hugging Face">
+</p>
