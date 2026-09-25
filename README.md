@@ -7,14 +7,24 @@
 ### AI tools I work with
 
 <p>
-  <img src="assets/stack/openai.svg" width="44" height="44" alt="OpenAI" title="OpenAI">
-  <img src="assets/stack/anthropic.svg" width="44" height="44" alt="Anthropic" title="Anthropic">
-  <img src="assets/stack/claude.svg" width="44" height="44" alt="Claude" title="Claude">
-  <img src="assets/stack/claudecode.svg" width="44" height="44" alt="Claude Code" title="Claude Code">
-  <img src="assets/stack/codex.svg" width="44" height="44" alt="Codex" title="Codex">
-  <img src="assets/stack/cursor.svg" width="44" height="44" alt="Cursor" title="Cursor">
-  <img src="assets/stack/devin.svg" width="44" height="44" alt="Devin (Cognition)" title="Devin (Cognition)">
-  <img src="assets/stack/windsurf.svg" width="44" height="44" alt="Windsurf" title="Windsurf">
-  <img src="assets/stack/gemini.svg" width="44" height="44" alt="Gemini" title="Gemini">
-  <img src="assets/stack/huggingface.svg" width="44" height="44" alt="Hugging Face" title="Hugging Face">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/openai-dark.svg"><img src="assets/stack/openai-light.svg" width="40" height="40" alt="OpenAI" title="OpenAI"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/anthropic-dark.svg"><img src="assets/stack/anthropic-light.svg" width="40" height="40" alt="Anthropic" title="Anthropic"></picture>&nbsp;&nbsp;
+  <img src="assets/stack/claude.svg" width="40" height="40" alt="Claude" title="Claude">&nbsp;&nbsp;
+  <img src="assets/stack/claudecode.svg" width="40" height="40" alt="Claude Code" title="Claude Code">&nbsp;&nbsp;
+  <img src="assets/stack/codex.svg" width="40" height="40" alt="Codex" title="Codex">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cursor-dark.svg"><img src="assets/stack/cursor-light.svg" width="40" height="40" alt="Cursor" title="Cursor"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cognition-dark.svg"><img src="assets/stack/cognition-light.svg" width="40" height="40" alt="Cognition" title="Cognition"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/t3code-dark.svg"><img src="assets/stack/t3code-light.svg" width="40" height="40" alt="T3 Code" title="T3 Code"></picture>&nbsp;&nbsp;
+  <img src="assets/stack/typesafe.svg" width="40" height="40" alt="TypeSafe" title="TypeSafe">
+</p>
+
+### Languages
+
+<p>
+  <img src="assets/stack/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/rust-dark.svg"><img src="assets/stack/rust-light.svg" width="40" height="40" alt="Rust" title="Rust"></picture>&nbsp;&nbsp;
+  <img src="assets/stack/python.svg" width="40" height="40" alt="Python" title="Python">&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/solidity-dark.svg"><img src="assets/stack/solidity-light.svg" width="40" height="40" alt="Solidity" title="Solidity"></picture>&nbsp;&nbsp;
+  <img src="assets/stack/swift.svg" width="40" height="40" alt="Swift" title="Swift">&nbsp;&nbsp;
+  <img src="assets/stack/go.svg" width="40" height="40" alt="Go" title="Go">
 </p>
