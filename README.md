@@ -45,8 +45,8 @@ CURRENTLY IN OSAKA, JAPAN.</samp>
 
 <samp><img src="assets/square.svg" width="8" height="8" alt="">&nbsp; LINKS</samp>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/website-dark.svg"><img src="assets/links/website-light.svg" width="16" height="16" alt=""></picture>&nbsp; <samp><a href="https://www.pdito.com">PERSONAL WEBSITE</a></samp><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/company-dark.svg"><img src="assets/links/company-light.svg" width="16" height="16" alt=""></picture>&nbsp; <samp><a href="https://www.perfectdimension.ai">COMPANY WEBSITE</a></samp><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/linkedin-dark.svg"><img src="assets/links/linkedin-light.svg" width="16" height="16" alt=""></picture>&nbsp; <samp><a href="https://www.linkedin.com/in/pwdavis/">LINKEDIN</a></samp><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/x-dark.svg"><img src="assets/links/x-light.svg" width="16" height="16" alt=""></picture>&nbsp; <samp><a href="https://x.com/PDiTO">X</a></samp><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/email-dark.svg"><img src="assets/links/email-light.svg" width="16" height="16" alt=""></picture>&nbsp; <samp><a href="mailto:contact@pdito.com">EMAIL</a></samp>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/website-dark.svg"><img src="assets/links/website-light.svg" width="16" height="16" alt="" align="middle"></picture>&nbsp; <samp><a href="https://www.pdito.com">PERSONAL WEBSITE</a></samp><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/company-dark.svg"><img src="assets/links/company-light.svg" width="16" height="16" alt="" align="middle"></picture>&nbsp; <samp><a href="https://www.perfectdimension.ai">COMPANY WEBSITE</a></samp><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/linkedin-dark.svg"><img src="assets/links/linkedin-light.svg" width="16" height="16" alt="" align="middle"></picture>&nbsp; <samp><a href="https://www.linkedin.com/in/pwdavis/">LINKEDIN</a></samp><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/x-dark.svg"><img src="assets/links/x-light.svg" width="16" height="16" alt="" align="middle"></picture>&nbsp; <samp><a href="https://x.com/PDiTO">X</a></samp><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/email-dark.svg"><img src="assets/links/email-light.svg" width="16" height="16" alt="" align="middle"></picture>&nbsp; <samp><a href="mailto:contact@pdito.com">EMAIL</a></samp>
