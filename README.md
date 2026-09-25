@@ -1,7 +1,7 @@
 👋
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/website-dark.svg"><img src="assets/links/website-light.svg" width="18" height="18" alt=""></picture>&nbsp; <a href="https://www.pdito.com">Personal website</a><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/company-dark.svg"><img src="assets/links/company-light.svg" width="18" height="18" alt=""></picture>&nbsp; <a href="https://www.perfectdimension.com">Company website</a><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/company-dark.svg"><img src="assets/links/company-light.svg" width="18" height="18" alt=""></picture>&nbsp; <a href="https://www.perfectdimension.ai">Company website</a><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/links/x-dark.svg"><img src="assets/links/x-light.svg" width="18" height="18" alt=""></picture>&nbsp; <a href="https://x.com/PDiTO">@PDiTO on X</a>
 
 ### AI tools I work with
